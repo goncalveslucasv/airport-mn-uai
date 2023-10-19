@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-simulation_time = 24 * 60 
+simulation_time = 24 * 600 
 landing_arrival_rate = 3 / 60 
 takeoff_arrival_rate = 1 / 60 
 landing_time = 12  
